@@ -13,5 +13,6 @@ int main(int argc, char **argv) {
 
   printf("Hello World!\n");
   printf("Su Poe!\n");
+  printf("Electrical Engineering!\n");
   return 0;
 }
